@@ -224,6 +224,7 @@ header nav ul li a {
 }
 
 .trainer-bio h4 {
+  font-weight: lighter;
   font-size: 22px;
   margin-bottom: 15px;
 }
@@ -303,7 +304,7 @@ footer {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  background-color: #fce138;
+  background: #fce138;
   width: 100%;
   padding: 40px 35px;
 }
