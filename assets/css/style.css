@@ -1,10 +1,9 @@
-/*this applies to all sheet*/
 :root {
   --primary-color: #fce18f;
   --secondary-color: #024e76;
   --tertiary-color: #39a6b3;
 }
-
+/*this applies to all sheet*/
 * {
   margin: 0;
   padding: 0;
@@ -12,7 +11,6 @@
 }
 
 body {
-  /* I'm a CSS comment! */
   color: var(--tertiary-color);
   font-family: Helvetica, Arial, sans-serif;
 }
